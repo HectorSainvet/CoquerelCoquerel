@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hector"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : ""
+  location         : "Earth"
   employer         :
   pubmed           : 
   googlescholar    : 
