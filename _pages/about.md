@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "coQuerel"
 excerpt: "Welcome"
 author_profile: true
 redirect_from: 
