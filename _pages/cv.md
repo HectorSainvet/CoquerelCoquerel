@@ -24,6 +24,3 @@ Work experience
 * France Culture, Paris, Winter 2020
 
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
