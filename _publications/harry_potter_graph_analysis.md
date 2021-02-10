@@ -1,7 +1,7 @@
 ---
 title: "Harry Potter, a graph analysis from text"
 collection: publications
-permalink: /publication/harry_potter_graph_analysis.md
+permalink: /publication/harry_potter_graph_analysis
 excerpt: 'How Harry Potter's characters are related ?'
 date: 2019-05-28
 venue: 'Ecole Polytechnique'
