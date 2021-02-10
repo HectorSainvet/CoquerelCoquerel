@@ -1,6 +1,6 @@
 ---
 title: "Illustrations"
-excerpt: "Monography"
+excerpt: "Drawing what I heard"
 collection: portfolio
 ---
 
