@@ -9,4 +9,4 @@ paperurl: 'http://hectorsainvet.github.io/coquerel3/files/Soutenance_HarryPotter
 citation: 'Rippol A. and Sainvet H. (2019)'
 ---
 
-Download oral presentation [here](http://academicpages.github.io/files/Soutenance_HarryPotter.pdf) in French.
+Download oral presentation [here](http://hectorsainvet.github.io/coquerel3/files/Soutenance_HarryPotter.pdf) in French.
