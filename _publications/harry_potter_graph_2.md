@@ -1,5 +1,5 @@
 ---
-title: "Harry Potter"
+title: "Harry Potter Graph Analysis"
 collection: publications
 permalink: /publication/harry_potter_graph_2
 excerpt: 'Harry Potter Graph'
