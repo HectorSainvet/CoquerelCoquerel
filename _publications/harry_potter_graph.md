@@ -2,14 +2,17 @@
 title: "Harry Potter: text analysis and character relations"
 collection: publications
 permalink: /publication/harry_potter_graph
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'How do Harry Potter's character are related ?'
+date: 2019-05
+venue: 'Ecole Polytechnique, Paris'
+paperurl: 'https://github.com/HectorSainvet/coquerel3/blob/master/files/Soutenance_HarryPotter.pdf'
+citation: 'A. Rippol & H. Sainvet (2019).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Undergrad project on graph analysis and text analysis.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Context : Harry Potter raw texts
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+How do characters in Harry Potter are related ?
+
+Presentation in [ici](https://github.com/HectorSainvet/coquerel3/blob/master/files/Soutenance_HarryPotter.pdf)
+
