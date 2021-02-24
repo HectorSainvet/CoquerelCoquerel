@@ -7,6 +7,11 @@ date: 2019-05-28
 citation: 'A. Rippol and H. Sainvet, (2019).'
 ---
 
+How are Harry Potter characters related from text analysis ?
 
-[Download paper here](https://github.com/HectorSainvet/coquerel3/blob/master/files/Soutenance_HarryPotter.pdf)
+Tool : StanfordNLP, Neo4J, Gephi.
+
+Code : Java.
+
+[Download presentation in French here](https://github.com/HectorSainvet/coquerel3/blob/master/files/Soutenance_HarryPotter.pdf)
 
