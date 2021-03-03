@@ -8,9 +8,4 @@ date: 2017-10-01
 location: "Beijing, China"
 ---
 
-Objective
-======
-
-Result
-======
 
